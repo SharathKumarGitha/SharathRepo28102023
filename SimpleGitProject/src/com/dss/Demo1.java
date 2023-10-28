@@ -12,6 +12,8 @@ public class Demo1 {
 		System.out.println("this is line3....");
 		
 		System.out.println("this is line4....");
+
+		System.out.println("this is line4....");
 	}
 
 }
